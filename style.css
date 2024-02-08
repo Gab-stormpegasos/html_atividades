@@ -1,0 +1,26 @@
+h1{
+    color:blueviolet;
+    font-size: 33px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+p{
+    color: aqua;
+    font-size: 20px;
+    text-align: center
+}
+body{
+    background-color: #000000;
+}
+li{
+    list-style-type: nome;
+ }
+ ul{
+    color: aliceblue; 
+    font-size: 20px;
+    text-align: left
+ }
+.special{
+    color: bisque;
+    font-weight: bold;
+}    
